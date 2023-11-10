@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab8</string>
+    <string name="color_red">Красный</string>
+    <string name="color_yellow">Желтый</string>
+    <string name="color_green">Зеленый</string>
+    <string name="shr20">Шрифт 20</string>
+    <string name="shr25">Шрифт 25</string>
+</resources>
